@@ -4,7 +4,7 @@
   <name>my_turtle_pkg</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="emre@todo.todo">emre</maintainer>
+  <maintainer email="emrepolat098@gmail.com">emre</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
